@@ -9,7 +9,7 @@ Your workflow endpoint (workflow_rest_url) + /v1/workflow-instances
 POST
 
 ## Headers:
-Authorization: Bearer <OAuth Token>
+Authorization: Bearer Your OAuth Token
   
 # Body:
   {
